@@ -1,5 +1,6 @@
 vassi701
 ========
 
-test
+*test
+*test
 
